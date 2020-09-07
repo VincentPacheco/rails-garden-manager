@@ -19,6 +19,7 @@ gem 'webpacker'
 gem "nokogiri", ">= 1.10.8"
 gem "rack", ">= 2.0.8"
 gem "actionpack", ">= 6.0.3.2"
+gem 'bootstrap', '~> 4.5.2'
 
 group :development do
   gem 'web-console', '>= 3.3.0'
